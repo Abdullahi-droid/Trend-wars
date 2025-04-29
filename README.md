@@ -1,3 +1,3 @@
-# Trend Wars App (Expo)
+# Trend Wars API
 
-Run: `npm install && npm start`
+Run: `uvicorn main:app --reload`
